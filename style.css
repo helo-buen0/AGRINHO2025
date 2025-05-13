@@ -4,9 +4,9 @@
 :root {
 --primary-color: #026773;
 --secondary-color: #3CA6A6;
---text-color: #024959;
+--text-color: #beddb0;
 --background-color: #d5f2e9;
---button-hover: #012E40;
+--button-hover: #ffffff;
 --font-body: "Chocolate Classical Sans", serif;
 --font-titulo: "Rakkas", serif;
 }
@@ -28,11 +28,11 @@ font-family: var(--font-body);
 
 /* Variáveis */
 :root {
-    --primary-color: #026773;
+    --primary-color: #31acb9;
     --secondary-color: #3CA6A6;
-    --text-color: #024959;
-    --background-color: #F2E3D5;
-    --button-hover: #012E40;
+    --text-color: #abdb9e;
+    --background-color: #92cab9;
+    --button-hover: #ffffff;
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
 }
