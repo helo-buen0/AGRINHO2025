@@ -26,7 +26,7 @@ font-family: var(--font-body);
     }
 }
 
-/* Variáveis */
+
 :root {
     --primary-color: #31acb9;
     --secondary-color: #3CA6A6;
@@ -44,7 +44,7 @@ font-family: var(--font-body);
     font-family: var(--font-body);
 }
 
-/* Corpo da página */
+
 body {
     background-color: var(--background-color);
     color: var(--text-color);
